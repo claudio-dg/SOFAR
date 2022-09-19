@@ -1,0 +1,8 @@
+prefix=/home/davide/assignment_ws/devel
+
+Name: sofar_assignment
+Description: Description of sofar_assignment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
